@@ -24,6 +24,11 @@
 
 ### Rear
 
+## Breaks
+
+* CPP Big Brake kit
+* 2" Drop Spindles
+
 ## Paint
 
 ## Interior
