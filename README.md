@@ -33,7 +33,7 @@
 
 ### Front
 
-* American Racing [Torq Thrust II](http://www.americanracing.com/wheel/4424/vncl205-classic-torq-thrust-ii)
+* American Racing [Torq Thrust II](http://www.americanracing.com/wheel/4424/vncl205-classic-torq-thrust-ii) 15x6
 
 ### Rear
 
