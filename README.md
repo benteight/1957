@@ -33,9 +33,11 @@
 
 ### Front
 
+* American Racing [Torq Thrust II](http://www.americanracing.com/wheel/4424/vncl205-classic-torq-thrust-ii)
+
 ### Rear
 
-* Original Dragmaster American Racing Torque Thrust 15x7
+* Original International Dragmaster 15x7
 
 ## Paint
 
