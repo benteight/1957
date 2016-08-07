@@ -29,6 +29,14 @@
 * CPP Big Brake kit
 * 2" Drop Spindles
 
+## Tires/Wheels
+
+### Front
+
+### Rear
+
+* Original Dragmaster American Racing Torque Thrust 15x7
+
 ## Paint
 
 ## Interior
