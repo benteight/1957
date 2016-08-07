@@ -20,6 +20,7 @@
 ### Front
 
 * Pro Shocks® [Coilovers](http://www.speedwaymotors.com/Pro-Shocks-C250GM450-1955-1957-B-B-Chevy-V8-Front-Coilover-Conversion,50623.html)
+* CPP Upper/Lower Tubular A-Arms
 
 ### Rear
 
