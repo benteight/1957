@@ -13,7 +13,7 @@
   * 31 spline Currie Axles
 * Ford 9 Inch Posi Traction [Third Member](http://www.speedwaymotors.com/Ford-9-Inch-Posi-Traction-Third-Member-Assembly,6788.html)
   * 3.70 Gear Ratio
-  * 31 spline [Richmond Powertrax Grip Pro](http://www.powertrax.com/index.php/products/grip-pro) differential
+  * 31 spline [Richmond Powertrax Grip Pro](https://www.powertrax.com/product-info/powertrax-grip-pro-traction-system/) differential
 
 ## Suspension
 
