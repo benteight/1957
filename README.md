@@ -34,6 +34,7 @@
 ### Front
 
 * American Racing [Torq Thrust II](http://www.americanracing.com/wheel/4424/vncl205-classic-torq-thrust-ii) 15x6
+* Rocket Racing [Igniter](http://www.rocketracingwheels.com/rocket-igniter-series/c33) 15x6
 
 ### Rear
 
