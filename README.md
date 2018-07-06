@@ -7,6 +7,14 @@
 
 ## Engine
 
+* 454 .030 over
+* 749 Heads
+* Stock Valves
+* COMP Cam 280
+* TRW Pistons .100 dome
+* 9-to-1 compression
+* Holley 750 Carburetor w/ vacuum secondaries
+
 ## Powertrain
 
 * Ford 9 Inch Rear End Housing
