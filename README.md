@@ -50,4 +50,8 @@
 
 ## Paint
 
+* PPG Hot Rod Black
+
 ## Interior
+
+* TODO
