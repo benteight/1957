@@ -16,6 +16,7 @@
 * ~Holley 750 Carburetor w/ vacuum secondaries~
 
 * 350 ZZ4 with LT4 HOT Cam Kit
+* "Fast Burn" Aluminum Heads
 
 ## Powertrain
 
