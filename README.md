@@ -7,6 +7,8 @@
 
 ## Engine
 
+### Big Block
+
 * ~454 .030 over~
 * ~749 Heads~
 * ~Stock Valves~
@@ -14,6 +16,10 @@
 * ~TRW Pistons .100 dome~
 * ~9-to-1 compression~
 * ~Holley 750 Carburetor w/ vacuum secondaries~
+
+### Small Block
+
+Moving to small block.
 
 * 350 ZZ4 with LT4 HOT Cam Kit
 * "Fast Burn" Aluminum Heads
